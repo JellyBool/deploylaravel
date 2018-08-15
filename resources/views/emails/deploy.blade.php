@@ -4,7 +4,7 @@
 The body of your message.
 
 @component('mail::button', ['url' => 'https://codecasts.com'])
-Button Text
+    Button Text
 @endcomponent
 
 Thanks,<br>

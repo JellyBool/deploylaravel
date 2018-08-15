@@ -2,8 +2,8 @@
 
 namespace App\Jobs;
 
-use App\Mail\DeployEmail;
 use Mail;
+use App\Mail\DeployEmail;
 use Illuminate\Bus\Queueable;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Queue\InteractsWithQueue;
