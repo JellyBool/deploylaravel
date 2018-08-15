@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mysql Laravel
+                    Queue Laravel
                 </div>
 
                 <div class="links">
