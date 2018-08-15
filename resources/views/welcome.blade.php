@@ -78,6 +78,7 @@
             @endif
 
             <div class="content">
+
                 <div class="title m-b-md">
                     Queue-fixed Laravel
                 </div>
