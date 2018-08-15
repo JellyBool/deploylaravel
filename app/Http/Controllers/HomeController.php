@@ -31,7 +31,7 @@ class HomeController extends Controller
     {
         $user = auth()->user();
 
-        dispatch(new SendDeployEmail($user->email))->delay(10);
+        dispatch(new SendDeployEmail($user->email));
 
         return 'Email sent';
     }
