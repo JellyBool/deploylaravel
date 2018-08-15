@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Deploy Laravel
+                    Mysql Laravel
                 </div>
 
                 <div class="links">
