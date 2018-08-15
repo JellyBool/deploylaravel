@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Queue Laravel
+                    Queue-fixed Laravel
                 </div>
 
                 <div class="links">
