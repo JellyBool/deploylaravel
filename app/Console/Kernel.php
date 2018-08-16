@@ -25,10 +25,10 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-         $schedule->command('log:demo')
+         /*$schedule->command('log:demo')
                   ->withoutOverlapping()
                   ->onOneServer()
-                  ->everyMinute();
+                  ->everyMinute();*/
     }
 
     /**
